@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://maauz3110.github.io/maauz-portfolio/sitemap.xml
+
+
